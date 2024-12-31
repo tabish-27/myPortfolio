@@ -30,7 +30,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Download Resume
+            View Resume
           </a>
         </div>
       </div>
